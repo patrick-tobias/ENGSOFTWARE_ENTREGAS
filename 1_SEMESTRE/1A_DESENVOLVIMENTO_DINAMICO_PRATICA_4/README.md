@@ -33,7 +33,7 @@ O sistema desenvolvido permite:
 ### Adicionar Funcionário
 Preencha o formulário com as informações do funcionário e clique no botão "Adicionar".
 
-<img src="./evidencias/1_Tela_Inicial.png"/>
+<img src="./evidencias/1_tela_inicial.png"/>
 <img src="./evidencias/2_Adicionar_Funcionario_1.png">
 <img src="./evidencias/3_Adicionar_Funcionario_2.png">
 
