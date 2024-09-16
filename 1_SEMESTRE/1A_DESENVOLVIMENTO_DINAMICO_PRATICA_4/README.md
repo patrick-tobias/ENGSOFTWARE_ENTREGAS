@@ -40,13 +40,13 @@ Preencha o formulário com as informações do funcionário e clique no botão "
 ### Interagir com Funcionário
 Clique nos botões de ação para interagir com funcionários.
 
-<img src="./evidencias/4_apresentar_funcionario_Dev.png">
-<img src="./evidencias/5_trabalhar_funcionario_Dev.png">
-<img src="./evidencias/6_programar_funcionario_Dev.png">
+<img src="./evidencias/4_apresentar_funcionario_dev.png">
+<img src="./evidencias/5_trabalhar_funcionario_dev.png">
+<img src="./evidencias/6_programar_funcionario_dev.png">
 
-<img src="./evidencias/10_apresentar_funcionario_Ger.png">
-<img src="./evidencias/11_trabalhar_funcionario_Ger.png">
-<img src="./evidencias/12_gerenciar_funcionario_Ger.png">
+<img src="./evidencias/10_apresentar_funcionario_ger.png">
+<img src="./evidencias/11_trabalhar_funcionario_ger.png">
+<img src="./evidencias/12_gerenciar_funcionario_ger.png">
 
 ### Remover Funcionários
 Clique no botão remover para remover um funcionário da tabela.
