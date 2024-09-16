@@ -34,25 +34,25 @@ O sistema desenvolvido permite:
 Preencha o formulário com as informações do funcionário e clique no botão "Adicionar".
 
 <img src="./evidencias/1_tela_inicial.png"/>
-<img src="./evidencias/2_adicionar_Funcionario_1.png">
-<img src="./evidencias/3_adicionar_Funcionario_2.png">
+<img src="./evidencias/2_adicionar_funcionario_1.png">
+<img src="./evidencias/3_adicionar_funcionario_2.png">
 
 ### Interagir com Funcionário
 Clique nos botões de ação para interagir com funcionários.
 
-<img src="./evidencias/4_apresentar_Funcionario_Dev.png">
-<img src="./evidencias/5_trabalhar_Funcionario_Dev.png">
-<img src="./evidencias/6_programar_Funcionario_Dev.png">
+<img src="./evidencias/4_apresentar_funcionario_Dev.png">
+<img src="./evidencias/5_trabalhar_funcionario_Dev.png">
+<img src="./evidencias/6_programar_funcionario_Dev.png">
 
-<img src="./evidencias/10_apresentar_Funcionario_Ger.png">
-<img src="./evidencias/11_trabalhar_Funcionario_Ger.png">
-<img src="./evidencias/12_gerenciar_Funcionario_Ger.png">
+<img src="./evidencias/10_apresentar_funcionario_Ger.png">
+<img src="./evidencias/11_trabalhar_funcionario_Ger.png">
+<img src="./evidencias/12_gerenciar_funcionario_Ger.png">
 
 ### Remover Funcionários
 Clique no botão remover para remover um funcionário da tabela.
 
-<img src="./evidencias/7_adicionar_Funcionario_2.png">
-<img src="./evidencias/8_remover_Funcionario_2.png">
+<img src="./evidencias/7_adicionar_funcionario_2.png">
+<img src="./evidencias/8_remover_funcionario_2.png">
 
 ### Exceções
 Conheça as exceções da aplicação
